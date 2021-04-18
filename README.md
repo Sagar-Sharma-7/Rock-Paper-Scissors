@@ -1,6 +1,6 @@
 ## Wanna Play Rock Paper Scissors?
 ## Just click on the link below... 
-### [Rock Paper Scissors]()
+### [Rock Paper Scissors](https://sagar-sharma-7.github.io/Rock-Paper-Scissors/)
 
 <br>
 
